@@ -1,3 +1,5 @@
+Currently focused on learning in JavaScript, but exposed in all aspects of web development including front and back end, version management with git. I do programming fulltime, since I graduated. I'm interested in learning new things in the web development technology and moving forward into latest technologies required to work with it.
+
 - 👋 Hi, I’m @codex0535. My fullname is Pance Fran Simorangkir
 - 👀 I’m interested in Fronted and Backend Development
 - 🌱 I’m currently learning NodeJS, Java Spring Boot, Golang, Angular, React
